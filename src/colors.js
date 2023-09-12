@@ -1,0 +1,14 @@
+export const white = "#fff";
+export const cardBackground = "#1e1429";
+export const background = "#130A1B";
+export const borderColor = "#34283d";
+export const borderHover = "#654E78";
+export const black = "#000";
+export const secondaryFillHover = "#FFA882";
+export const secondaryFill = "#FFB494";
+export const primary = "#FF621E";
+export const LightPrimary50 = "#ffd8c7"
+export const primaryHover = "#E64F0E";
+export const secondary80 = "#594a66";
+export const darkprimary80 = "#291e35";
+export const darkOrange80 = "#492616";
