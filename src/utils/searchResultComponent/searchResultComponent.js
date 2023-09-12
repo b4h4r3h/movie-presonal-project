@@ -8,7 +8,7 @@ const SearchResultComponent = ({ data }) => {
                 data.map((item) => {
                     const { title, id, year } = item
                     return (
-                        <Link to={`/home/${id}/${title}`}>
+                        <Link to={`/genre/${id}/${title}`}>
                             <div key={id}>
                                 <p>{title}</p>
                             </div>

@@ -65,9 +65,6 @@ const Nav = () => {
             console.log(err)
         }
     }
-    const handleFunction = () => {
-        
-    }
     const openModal = () => {
         setIsOpen(true);
     }
